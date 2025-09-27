@@ -1,0 +1,8 @@
+/.cursor/
+.env
+.env.local
+.env.production
+dist/
+node_modules/
+uploads/
+*.log
